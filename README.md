@@ -1,17 +1,17 @@
 ✔Audio player
 
-✔Bu projede, , Css,html, JavaScript
-✔kullanarak geliştirilmiş bir müzik çalar uygulaması dır. 
-✔basit ve sade şekilde kullanilabilmektedir
+✔Bu projede, , Css,html, JavaScript <br>
+✔kullanarak geliştirilmiş bir müzik çalar uygulaması dır. <br>
+✔basit ve sade şekilde kullanilabilmektedir<br>
 
-Özellikleri
-✔Müzik Çalma: Seçilen müzik çalınır.
-❗Müzik Değiştirme: Bir müzik dosyasını seçerek çalma listesinde geçiş kolayca sağlanır 
-❗İsteğe göre karışık Dinleme: Müzikleri karışık sırayla çalma özelliği mevcuttur 
-❗ Başa Sarma: Müzik çalarken başa sarma sunulmuştur 
-❗ Teknolojiler
-✔ HTML5
- ✔CSS
+Özellikleri<br>
+✔Müzik Çalma: Seçilen müzik çalınır.<br>
+❗Müzik Değiştirme: Bir müzik dosyasını seçerek çalma listesinde geçiş kolayca sağlanır <br>
+❗İsteğe göre karışık Dinleme: Müzikleri karışık sırayla çalma özelliği mevcuttur<br> 
+❗ Başa Sarma: Müzik çalarken başa sarma sunulmuştur <br>
+❗ Teknolojiler<br>
+✔ HTML5<br>
+ ✔CSS<br>
 ✔JavaScript
 
 ![alt text](gifvideosu-ezgif.com-crop.gif)
